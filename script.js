@@ -3,4 +3,4 @@ const messages = ['You will be lucky in love today!', 'Today shall bring you wea
 const randSign = signs[Math.floor(Math.random()*signs.length)];
 const randMessage = messages[Math.floor(Math.random()*messages.length)];
 console.log ('Your sign is: ' + randSign);
-console.log('What this means for you: ' + randMessage);git status
+console.log('What this means for you: ' + randMessage);
