@@ -1,5 +1,5 @@
 <h1 id="mixed-messages">Mixed Messages</h1>
-<p><code>A random message generator</code></p>
+<p><code>A simple random message generator.</code></p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#general-info">General info</a></li>
